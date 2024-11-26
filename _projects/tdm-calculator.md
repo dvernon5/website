@@ -27,7 +27,6 @@ leadership:
       slack: https://hackforla.slack.com/team/U05Q5D34ARZ
       github: https://github.com/Parisajf
     picture: https://avatars.githubusercontent.com/Parisajf
-
   - name: Jane He
     github-handle:
     role: Lead, UX Research
